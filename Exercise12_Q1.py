@@ -7,4 +7,3 @@ random_numbers = random.sample(range(1,51),6)
 print("Your lottery numbers are:", random_numbers)
 
 # help(random)
-
